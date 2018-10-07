@@ -1,0 +1,27 @@
+.blogbody{
+	width: 60%;
+	border:30px #97999e solid;
+	padding: 20px;
+	margin: 3% auto auto auto;
+
+}
+
+.quote{
+	border-left: 6px solid #97999e;
+	padding-left: 4px;
+}
+p{
+	font-family: Source Sans Pro;
+}
+.date{
+	text-transform: uppercase;	
+	font-size: 1.5em;
+	font-family: Source Sans Pro;
+	color: #4286f4;
+}
+hr{
+
+	border: 0;
+	height: 1px;
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
