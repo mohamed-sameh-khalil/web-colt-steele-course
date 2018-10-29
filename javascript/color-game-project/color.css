@@ -1,0 +1,29 @@
+body{
+    background-color: #232323;
+    color: white;
+}
+.selected {
+    background-color: dodgerblue;
+}
+.container{
+    width: 600px;
+    margin: 0 auto;
+}
+#stripe{
+    height: 30px;
+    text-align: center;
+    background-color: white;
+    color: black;
+
+}
+.square{
+    width: 30%;
+    margin: 1.66%;
+    /*color assigns color to the inside element*/
+    background: #00ff00;
+    /*can not use height because parent height is zero*/
+    /*padding compares to width of current element*/
+    padding-bottom: 30%;
+
+    float: left;
+}
